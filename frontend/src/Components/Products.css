@@ -1,0 +1,59 @@
+/* Products.css */
+
+/* Products container */
+.products-container {
+  margin: 20px;
+}
+
+/* Table styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Table headings */
+th {
+  background-color: #f2f2f2;
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Table cells */
+td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+/* Links */
+a {
+  color: #007bff; /* Blue link color */
+  text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
+
+/* Input field for quantity */
+input[type="number"] {
+  width: 50px;
+  padding: 5px;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  text-align: center;
+}
+
+/* Button for adding to cart */
+.add-to-cart-button {
+  background-color: #007bff; /* Blue background color */
+  color: #ffffff; /* White text color */
+  border: none; /* Remove border */
+  border-radius: 5px; /* Add border radius */
+  padding: 8px 16px; /* Padding */
+  cursor: pointer; /* Add cursor pointer */
+}
+
+.add-to-cart-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}

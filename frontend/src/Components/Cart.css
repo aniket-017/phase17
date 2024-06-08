@@ -1,0 +1,97 @@
+/* Cart.css */
+
+.cart-container {
+    margin: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .empty-cart-message {
+    font-style: italic;
+    color: #888;
+  }
+  
+  .cart-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cart-item {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    padding-left: 5px;
+    padding-right: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+
+  .cart-item:hover{
+    background-color: rgb(84, 84, 84);
+  }
+  
+  
+  .item-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .item-details {
+    flex-grow: 1;
+    color: white;
+  }
+
+  .item-details> span{
+    color: whitesmoke;
+  }
+
+  
+  .item-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px; 
+  }
+  
+  .item-brand,
+  .item-standard,
+  .item-certification {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .item-quantity-price {
+    display: flex;
+    align-items: center;
+  }
+  
+  .item-quantity,
+  .item-price {
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 10px;
+  }
+  
+  /* Add more styles as needed */
+  /* Cart.css */
+
+.generate-quotation-button {
+    background-color: #4caf50; /* Green background color */
+    color: white; /* White text color */
+    padding: 10px 15px; /* Padding for better appearance */
+    border: none; /* Remove border */
+    border-radius: 4px; /* Add border radius */
+    cursor: pointer; /* Add cursor pointer on hover */
+    font-size: 16px; /* Font size */
+    margin-top: 10px; /* Add margin for spacing */
+  }
+  
+  .generate-quotation-button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  

@@ -1,0 +1,75 @@
+/* Header container */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white; /* Set background color to white */
+    color: #333; /* Set text color */
+    padding: 10px 20px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Add box shadow for a subtle effect */
+  }
+  
+  /* Logo */
+  .logo img {
+    width: 100px; /* Adjust the logo size as needed */
+    height: auto;
+  }
+  
+  /* Search bar */
+  .search-bar {
+    flex: 1;
+    display: flex;
+    margin: 0 20px; /* Add margin as needed */
+  }
+  
+  .search-bar input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    /* border: none; */
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .search-bar button {
+    background-color: #007bff; /* Set button background color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: 10px; /* Add spacing between input and button */
+    cursor: pointer;
+  }
+  
+  /* User Actions (Login and Orders) */
+  .user-actions {
+    display: flex;
+  }
+  
+  .user-action {
+    display: flex;
+    align-items: center;
+    margin-right: 20px; /* Add spacing between action items */
+  }
+  
+  .user-action img {
+    width: 24px; /* Adjust icon size as needed */
+    height: 24px;
+    margin-right: 5px; /* Add spacing between icon and text */
+  }
+  
+  /* Media Query for Responsiveness (adjust as needed) */
+  @media (max-width: 768px) {
+    .nav {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .search-bar {
+      margin: 10px 0;
+    }
+  
+    .user-actions {
+      margin-top: 10px;
+    }
+  }
+  

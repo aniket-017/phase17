@@ -1,0 +1,298 @@
+partNo,boltType,standard,certification,surfaceFinish,brand,industryStandard,material,threadSize,length,grade,description
+400001,Hex bolt,ANSI,RoHS compliant,Zinc-plated,BoltWorks Co.,ASME B18.2.1,Steel,M6,30,Grade 8,Hex bolt M6 30mm
+400002,Carriage bolt,DIN,CE marked,Black oxide,Nut & Bolt Solutions,ISO 4014,Stainless steel,M8,40,Grade 5,Carriage bolt M8 40mm
+400003,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 931,Steel,M10,50,Grade 10.9,Eye bolt M10 50mm
+400004,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A325,Alloy steel,"1/4""",25,Grade A307,"Flange bolt 1/4"" 25mm"
+400005,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.1,Brass,"3/8""",60,Grade 8,"U-bolt 3/8"" 60mm"
+400006,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4014,Steel,M8,35,Grade 5,Hex bolt M8 35mm
+400007,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.5,Stainless steel,M12,70,Grade 10.9,Carriage bolt M12 70mm
+400008,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 931,Steel,M10,60,Grade A307,Eye bolt M10 60mm
+400009,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4162,Alloy steel,M6,20,Grade 8,Flange bolt M6 20mm
+400010,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.1,Brass,"1/4""",40,Grade 5,"U-bolt 1/4"" 40mm"
+400011,Hex bolt,DIN,RoHS compliant,Galvanized,Titan Bolts,ISO 4014,Stainless steel,M8,45,Grade 8,Hex bolt M8 45mm
+400012,Carriage bolt,ANSI,CE marked,Black oxide,FastenAll,ASME B18.5,Steel,"3/8""",75,Grade 10.9,"Carriage bolt 3/8"" 75mm"
+400013,Eye bolt,ISO,RoHS compliant,Stainless steel,Nut & Bolt Solutions,DIN 931,Steel,M12,80,Grade A307,Eye bolt M12 80mm
+400014,Flange bolt,DIN,RoHS compliant,Zinc-plated,BoltWorks Co.,ISO 4162,Alloy steel,M10,30,Grade 8,Flange bolt M10 30mm
+400015,U-bolt,ANSI,CE marked,Black oxide,Titan Bolts,ASME B18.2.1,Brass,"1/2""",50,Grade 5,"U-bolt 1/2"" 50mm"
+400016,Hex bolt,DIN,RoHS compliant,Galvanized,FastenAll,ISO 4014,Stainless steel,M10,55,Grade 8,Hex bolt M10 55mm
+400017,Carriage bolt,ANSI,CE marked,Black oxide,Nut & Bolt Solutions,ASME B18.5,Steel,"3/8""",80,Grade 10.9,"Carriage bolt 3/8"" 80mm"
+400018,Eye bolt,ISO,RoHS compliant,Stainless steel,BoltWorks Co.,DIN 931,Steel,M14,90,Grade A307,Eye bolt M14 90mm
+400019,Flange bolt,DIN,RoHS compliant,Zinc-plated,Titan Bolts,ISO 4162,Alloy steel,M8,35,Grade 8,Flange bolt M8 35mm
+400020,U-bolt,ANSI,CE marked,Black oxide,FastenAll,ASME B18.2.1,Brass,"1/2""",60,Grade 5,"U-bolt 1/2"" 60mm"
+400021,Hex bolt,ANSI,RoHS compliant,Zinc-plated,BoltWorks Co.,ASME B18.2.1,Steel,M12,65,Grade 8,Hex bolt M12 65mm
+400022,Carriage bolt,DIN,CE marked,Black oxide,Nut & Bolt Solutions,ISO 4014,Stainless steel,M10,50,Grade 5,Carriage bolt M10 50mm
+400023,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 931,Steel,M16,70,Grade 10.9,Eye bolt M16 70mm
+400024,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A325,Alloy steel,"5/16""",35,Grade A307,"Flange bolt 5/16"" 35mm"
+400025,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.1,Brass,"5/8""",45,Grade 8,"U-bolt 5/8"" 45mm"
+400026,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4014,Steel,M10,70,Grade 5,Hex bolt M10 70mm
+400027,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.5,Stainless steel,M12,60,Grade 10.9,Carriage bolt M12 60mm
+400028,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 931,Steel,M20,80,Grade A307,Eye bolt M20 80mm
+400029,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4162,Alloy steel,M12,40,Grade 8,Flange bolt M12 40mm
+400030,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.1,Brass,"3/4""",55,Grade 5,"U-bolt 3/4"" 55mm"
+400031,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 932,Steel,M12,90,Grade A308,Eye bolt M12 90mm
+400032,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A326,Alloy steel,M10,35,Grade 8,Flange bolt M10 35mm
+400033,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.2,Brass,M16,60,Grade 5,U-bolt M16 60mm
+400034,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4015,Steel,"5/16""",65,Grade 8,"Hex bolt 5/16"" 65mm"
+400035,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.6,Stainless steel,"5/8""",50,Grade 5,"Carriage bolt 5/8"" 50mm"
+400036,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 932,Steel,M10,70,Grade 10.10,Eye bolt M10 70mm
+400037,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4163,Alloy steel,M12,35,Grade A308,Flange bolt M12 35mm
+400038,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.2,Brass,M20,45,Grade 2,U-bolt M20 45mm
+400039,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 933,Steel,M12,70,Grade 1,Eye bolt M12 70mm
+400040,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A327,Alloy steel,"3/4""",60,Grade 10.10,"Flange bolt 3/4"" 60mm"
+400041,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.3,Brass,M12,80,Grade A308,U-bolt M12 80mm
+400042,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4016,Steel,M10,40,Grade 2,Hex bolt M10 40mm
+400043,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.7,Stainless steel,M16,55,Grade 1,Carriage bolt M16 55mm
+400044,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 933,Steel,"5/16""",90,Grade A309,"Eye bolt 5/16"" 90mm"
+400045,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4164,Alloy steel,"5/8""",35,Grade 8,"Flange bolt 5/8"" 35mm"
+400046,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.3,Brass,M10,60,Grade 5,U-bolt M10 60mm
+400047,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 934,Steel,M12,65,Grade 8,Eye bolt M12 65mm
+400048,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A328,Alloy steel,M20,50,Grade 5,Flange bolt M20 50mm
+400049,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.4,Brass,M12,70,Grade 10.11,U-bolt M12 70mm
+400050,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4017,Steel,"3/4""",35,Grade A309,"Hex bolt 3/4"" 35mm"
+400051,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.8,Stainless steel,M12,45,Grade 4,Carriage bolt M12 45mm
+400052,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 934,Steel,M10,70,Grade 7,Eye bolt M10 70mm
+400053,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4165,Alloy steel,M16,60,Grade 10.11,Flange bolt M16 60mm
+400054,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.4,Brass,"5/16""",80,Grade A309,"U-bolt 5/16"" 80mm"
+400055,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 935,Steel,"5/8""",40,Grade 4,"Eye bolt 5/8"" 40mm"
+400056,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A329,Alloy steel,M10,55,Grade 7,Flange bolt M10 55mm
+400057,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.5,Brass,M12,90,Grade A310,U-bolt M12 90mm
+400058,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4018,Steel,M20,35,Grade 8,Hex bolt M20 35mm
+400059,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.9,Stainless steel,M12,60,Grade 5,Carriage bolt M12 60mm
+400060,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 935,Steel,"3/4""",65,Grade 8,"Eye bolt 3/4"" 65mm"
+400061,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4166,Alloy steel,M12,50,Grade 5,Flange bolt M12 50mm
+400062,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.5,Brass,M10,70,Grade 10.12,U-bolt M10 70mm
+400063,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 936,Steel,M16,35,Grade A310,Eye bolt M16 35mm
+400064,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A330,Alloy steel,"5/16""",45,Grade 10,"Flange bolt 5/16"" 45mm"
+400065,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.6,Brass,"5/8""",70,Grade 13,"U-bolt 5/8"" 70mm"
+400066,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4019,Steel,M10,60,Grade 10.12,Hex bolt M10 60mm
+400067,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.10,Stainless steel,M12,80,Grade A310,Carriage bolt M12 80mm
+400068,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 936,Steel,M20,40,Grade 10,Eye bolt M20 40mm
+400069,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4167,Alloy steel,M12,55,Grade 13,Flange bolt M12 55mm
+400070,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.6,Brass,"3/4""",90,Grade A311,"U-bolt 3/4"" 90mm"
+400071,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 937,Steel,M12,35,Grade 8,Eye bolt M12 35mm
+400072,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A331,Alloy steel,M10,60,Grade 5,Flange bolt M10 60mm
+400073,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.7,Brass,M16,65,Grade 8,U-bolt M16 65mm
+400074,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4020,Steel,"5/16""",50,Grade 5,"Hex bolt 5/16"" 50mm"
+400075,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.11,Stainless steel,"5/8""",70,Grade 10.13,"Carriage bolt 5/8"" 70mm"
+400076,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 937,Steel,M10,35,Grade A311,Eye bolt M10 35mm
+400077,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4168,Alloy steel,M12,45,Grade 16,Flange bolt M12 45mm
+400078,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.7,Brass,M20,70,Grade 19,U-bolt M20 70mm
+400079,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 938,Steel,M12,60,Grade 10.13,Eye bolt M12 60mm
+400080,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A332,Alloy steel,"3/4""",80,Grade A311,"Flange bolt 3/4"" 80mm"
+400081,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.8,Brass,M12,40,Grade 16,U-bolt M12 40mm
+400082,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4021,Steel,M10,55,Grade 19,Hex bolt M10 55mm
+400083,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.12,Stainless steel,M16,90,Grade A312,Carriage bolt M16 90mm
+400084,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 938,Steel,"5/16""",35,Grade 8,"Eye bolt 5/16"" 35mm"
+400085,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4169,Alloy steel,"5/8""",60,Grade 5,"Flange bolt 5/8"" 60mm"
+400086,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.8,Brass,M10,65,Grade 8,U-bolt M10 65mm
+400087,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 939,Steel,M12,50,Grade 5,Eye bolt M12 50mm
+400088,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A333,Alloy steel,M20,70,Grade 10.14,Flange bolt M20 70mm
+400089,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.9,Brass,M12,35,Grade A312,U-bolt M12 35mm
+400090,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4022,Steel,"3/4""",45,Grade 22,"Hex bolt 3/4"" 45mm"
+400091,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.13,Stainless steel,M12,70,Grade 25,Carriage bolt M12 70mm
+400092,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 939,Steel,M10,60,Grade 10.14,Eye bolt M10 60mm
+400093,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4170,Alloy steel,M16,80,Grade A312,Flange bolt M16 80mm
+400094,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.9,Brass,"5/16""",40,Grade 22,"U-bolt 5/16"" 40mm"
+400095,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 940,Steel,"5/8""",55,Grade 25,"Eye bolt 5/8"" 55mm"
+400096,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A334,Alloy steel,M10,90,Grade A313,Flange bolt M10 90mm
+400097,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.10,Brass,M12,35,Grade 8,U-bolt M12 35mm
+400098,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4023,Steel,M20,60,Grade 5,Hex bolt M20 60mm
+400099,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.14,Stainless steel,M12,65,Grade 8,Carriage bolt M12 65mm
+400100,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 940,Steel,"3/4""",50,Grade 5,"Eye bolt 3/4"" 50mm"
+400101,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4171,Alloy steel,M12,70,Grade 10.15,Flange bolt M12 70mm
+400102,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.10,Brass,M10,35,Grade A313,U-bolt M10 35mm
+400103,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 941,Steel,M16,45,Grade 28,Eye bolt M16 45mm
+400104,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A335,Alloy steel,"5/16""",70,Grade 31,"Flange bolt 5/16"" 70mm"
+400105,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.11,Brass,"5/8""",60,Grade 10.15,"U-bolt 5/8"" 60mm"
+400106,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4024,Steel,M10,80,Grade A313,Hex bolt M10 80mm
+400107,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.15,Stainless steel,M12,40,Grade 28,Carriage bolt M12 40mm
+400108,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 941,Steel,M20,55,Grade 31,Eye bolt M20 55mm
+400109,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4172,Alloy steel,M12,90,Grade A314,Flange bolt M12 90mm
+400110,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.11,Brass,"3/4""",35,Grade 8,"U-bolt 3/4"" 35mm"
+400111,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 942,Steel,M12,60,Grade 5,Eye bolt M12 60mm
+400112,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A336,Alloy steel,M10,65,Grade 8,Flange bolt M10 65mm
+400113,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.12,Brass,M16,50,Grade 5,U-bolt M16 50mm
+400114,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4025,Steel,"5/16""",70,Grade 10.16,"Hex bolt 5/16"" 70mm"
+400115,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.16,Stainless steel,"5/8""",35,Grade A314,"Carriage bolt 5/8"" 35mm"
+400116,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 942,Steel,M10,45,Grade 34,Eye bolt M10 45mm
+400117,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4173,Alloy steel,M12,70,Grade 37,Flange bolt M12 70mm
+400118,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.12,Brass,M20,60,Grade 10.16,U-bolt M20 60mm
+400119,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 943,Steel,M12,80,Grade A314,Eye bolt M12 80mm
+400120,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A337,Alloy steel,"3/4""",40,Grade 34,"Flange bolt 3/4"" 40mm"
+400121,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.13,Brass,M12,55,Grade 37,U-bolt M12 55mm
+400122,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4026,Steel,M10,90,Grade A315,Hex bolt M10 90mm
+400123,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.17,Stainless steel,M16,35,Grade 8,Carriage bolt M16 35mm
+400124,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 943,Steel,"5/16""",60,Grade 5,"Eye bolt 5/16"" 60mm"
+400125,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4174,Alloy steel,"5/8""",65,Grade 8,"Flange bolt 5/8"" 65mm"
+400126,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.13,Brass,M10,50,Grade 5,U-bolt M10 50mm
+400127,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 944,Steel,M12,70,Grade 10.17,Eye bolt M12 70mm
+400128,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A338,Alloy steel,M20,35,Grade A315,Flange bolt M20 35mm
+400129,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.14,Brass,M12,45,Grade 40,U-bolt M12 45mm
+400130,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4027,Steel,"3/4""",70,Grade 43,"Hex bolt 3/4"" 70mm"
+400131,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.18,Stainless steel,M12,60,Grade 10.17,Carriage bolt M12 60mm
+400132,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 944,Steel,M10,80,Grade A315,Eye bolt M10 80mm
+400133,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4175,Alloy steel,M16,40,Grade 40,Flange bolt M16 40mm
+400134,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.14,Brass,"5/16""",55,Grade 43,"U-bolt 5/16"" 55mm"
+400135,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 945,Steel,"5/8""",90,Grade A316,"Eye bolt 5/8"" 90mm"
+400136,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A339,Alloy steel,M10,35,Grade 8,Flange bolt M10 35mm
+400137,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.15,Brass,M12,60,Grade 5,U-bolt M12 60mm
+400138,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4028,Steel,M20,65,Grade 8,Hex bolt M20 65mm
+400139,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.19,Stainless steel,M12,50,Grade 5,Carriage bolt M12 50mm
+400140,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 945,Steel,"3/4""",70,Grade 10.18,"Eye bolt 3/4"" 70mm"
+400141,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4176,Alloy steel,M12,35,Grade A316,Flange bolt M12 35mm
+400142,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.15,Brass,M10,45,Grade 46,U-bolt M10 45mm
+400143,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 946,Steel,M16,70,Grade 49,Eye bolt M16 70mm
+400144,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A340,Alloy steel,"5/16""",60,Grade 10.18,"Flange bolt 5/16"" 60mm"
+400145,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.16,Brass,"5/8""",80,Grade A316,"U-bolt 5/8"" 80mm"
+400146,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4029,Steel,M10,40,Grade 46,Hex bolt M10 40mm
+400147,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.20,Stainless steel,M12,55,Grade 49,Carriage bolt M12 55mm
+400148,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 946,Steel,M20,90,Grade A317,Eye bolt M20 90mm
+400149,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4177,Alloy steel,M12,35,Grade 8,Flange bolt M12 35mm
+400150,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.16,Brass,"3/4""",60,Grade 5,"U-bolt 3/4"" 60mm"
+400151,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 947,Steel,M12,65,Grade 8,Eye bolt M12 65mm
+400152,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A341,Alloy steel,M10,50,Grade 5,Flange bolt M10 50mm
+400153,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.17,Brass,M16,70,Grade 10.19,U-bolt M16 70mm
+400154,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4030,Steel,"5/16""",35,Grade A317,"Hex bolt 5/16"" 35mm"
+400155,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.21,Stainless steel,"5/8""",45,Grade 52,"Carriage bolt 5/8"" 45mm"
+400156,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 947,Steel,M10,70,Grade 55,Eye bolt M10 70mm
+400157,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4178,Alloy steel,M12,60,Grade 10.19,Flange bolt M12 60mm
+400158,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.17,Brass,M20,80,Grade A317,U-bolt M20 80mm
+400159,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 948,Steel,M12,40,Grade 52,Eye bolt M12 40mm
+400160,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A342,Alloy steel,"3/4""",55,Grade 55,"Flange bolt 3/4"" 55mm"
+400161,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.18,Brass,M12,90,Grade A318,U-bolt M12 90mm
+400162,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4031,Steel,M10,35,Grade 8,Hex bolt M10 35mm
+400163,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.22,Stainless steel,M16,60,Grade 5,Carriage bolt M16 60mm
+400164,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 948,Steel,"5/16""",65,Grade 8,"Eye bolt 5/16"" 65mm"
+400165,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4179,Alloy steel,"5/8""",50,Grade 5,"Flange bolt 5/8"" 50mm"
+400166,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.18,Brass,M10,70,Grade 10.20,U-bolt M10 70mm
+400167,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 949,Steel,M12,35,Grade A318,Eye bolt M12 35mm
+400168,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A343,Alloy steel,M20,45,Grade 58,Flange bolt M20 45mm
+400169,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.19,Brass,M12,70,Grade 61,U-bolt M12 70mm
+400170,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4032,Steel,"3/4""",60,Grade 10.20,"Hex bolt 3/4"" 60mm"
+400171,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.23,Stainless steel,M12,80,Grade A318,Carriage bolt M12 80mm
+400172,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 949,Steel,M10,40,Grade 58,Eye bolt M10 40mm
+400173,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4180,Alloy steel,M16,55,Grade 61,Flange bolt M16 55mm
+400174,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.19,Brass,"5/16""",90,Grade A319,"U-bolt 5/16"" 90mm"
+400175,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 950,Steel,"5/8""",35,Grade 8,"Eye bolt 5/8"" 35mm"
+400176,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A344,Alloy steel,M10,60,Grade 5,Flange bolt M10 60mm
+400177,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.20,Brass,M12,65,Grade 8,U-bolt M12 65mm
+400178,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4033,Steel,M20,50,Grade 5,Hex bolt M20 50mm
+400179,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.24,Stainless steel,M12,70,Grade 10.21,Carriage bolt M12 70mm
+400180,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 950,Steel,"3/4""",35,Grade A319,"Eye bolt 3/4"" 35mm"
+400181,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4181,Alloy steel,M12,45,Grade 64,Flange bolt M12 45mm
+400182,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.20,Brass,M10,70,Grade 67,U-bolt M10 70mm
+400183,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 951,Steel,M16,60,Grade 10.21,Eye bolt M16 60mm
+400184,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A345,Alloy steel,"5/16""",80,Grade A319,"Flange bolt 5/16"" 80mm"
+400185,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.21,Brass,"5/8""",40,Grade 64,"U-bolt 5/8"" 40mm"
+400186,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4034,Steel,M10,55,Grade 67,Hex bolt M10 55mm
+400187,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.25,Stainless steel,M12,90,Grade A320,Carriage bolt M12 90mm
+400188,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 951,Steel,M20,35,Grade 8,Eye bolt M20 35mm
+400189,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4182,Alloy steel,M12,60,Grade 5,Flange bolt M12 60mm
+400190,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.21,Brass,"3/4""",65,Grade 8,"U-bolt 3/4"" 65mm"
+400191,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 952,Steel,M12,50,Grade 5,Eye bolt M12 50mm
+400192,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A346,Alloy steel,M10,70,Grade 10.22,Flange bolt M10 70mm
+400193,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.22,Brass,M16,35,Grade A320,U-bolt M16 35mm
+400194,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4035,Steel,"5/16""",45,Grade 70,"Hex bolt 5/16"" 45mm"
+400195,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.26,Stainless steel,"5/8""",70,Grade 73,"Carriage bolt 5/8"" 70mm"
+400196,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 952,Steel,M10,60,Grade 10.22,Eye bolt M10 60mm
+400197,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4183,Alloy steel,M12,80,Grade A320,Flange bolt M12 80mm
+400198,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.22,Brass,M20,40,Grade 70,U-bolt M20 40mm
+400199,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 953,Steel,M12,55,Grade 73,Eye bolt M12 55mm
+400200,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A347,Alloy steel,"3/4""",90,Grade A321,"Flange bolt 3/4"" 90mm"
+400201,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.23,Brass,M12,35,Grade 8,U-bolt M12 35mm
+400202,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4036,Steel,M10,60,Grade 5,Hex bolt M10 60mm
+400203,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.27,Stainless steel,M16,65,Grade 8,Carriage bolt M16 65mm
+400204,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 953,Steel,"5/16""",50,Grade 5,"Eye bolt 5/16"" 50mm"
+400205,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4184,Alloy steel,"5/8""",70,Grade 10.23,"Flange bolt 5/8"" 70mm"
+400206,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.23,Brass,M10,35,Grade A321,U-bolt M10 35mm
+400207,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 954,Steel,M12,45,Grade 76,Eye bolt M12 45mm
+400208,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A348,Alloy steel,M20,70,Grade 79,Flange bolt M20 70mm
+400209,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.24,Brass,M12,60,Grade 10.23,U-bolt M12 60mm
+400210,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4037,Steel,"3/4""",80,Grade A321,"Hex bolt 3/4"" 80mm"
+400211,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.28,Stainless steel,M12,40,Grade 76,Carriage bolt M12 40mm
+400212,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 954,Steel,M10,55,Grade 79,Eye bolt M10 55mm
+400213,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4185,Alloy steel,M16,90,Grade A322,Flange bolt M16 90mm
+400214,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.24,Brass,"5/16""",35,Grade 8,"U-bolt 5/16"" 35mm"
+400215,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 955,Steel,"5/8""",60,Grade 5,"Eye bolt 5/8"" 60mm"
+400216,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A349,Alloy steel,M10,65,Grade 8,Flange bolt M10 65mm
+400217,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.25,Brass,M12,50,Grade 5,U-bolt M12 50mm
+400218,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4038,Steel,M20,70,Grade 10.24,Hex bolt M20 70mm
+400219,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.29,Stainless steel,M12,35,Grade A322,Carriage bolt M12 35mm
+400220,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 955,Steel,"3/4""",45,Grade 82,"Eye bolt 3/4"" 45mm"
+400221,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4186,Alloy steel,M12,70,Grade 85,Flange bolt M12 70mm
+400222,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.25,Brass,M10,60,Grade 10.24,U-bolt M10 60mm
+400223,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 956,Steel,M16,80,Grade A322,Eye bolt M16 80mm
+400224,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A350,Alloy steel,"5/16""",40,Grade 82,"Flange bolt 5/16"" 40mm"
+400225,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.26,Brass,"5/8""",55,Grade 85,"U-bolt 5/8"" 55mm"
+400226,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4039,Steel,M10,90,Grade A323,Hex bolt M10 90mm
+400227,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.30,Stainless steel,M12,35,Grade 8,Carriage bolt M12 35mm
+400228,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 956,Steel,M20,60,Grade 5,Eye bolt M20 60mm
+400229,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4187,Alloy steel,M12,65,Grade 8,Flange bolt M12 65mm
+400230,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.26,Brass,"3/4""",50,Grade 5,"U-bolt 3/4"" 50mm"
+400231,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 957,Steel,M12,70,Grade 10.25,Eye bolt M12 70mm
+400232,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A351,Alloy steel,M10,35,Grade A323,Flange bolt M10 35mm
+400233,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.27,Brass,M16,45,Grade 88,U-bolt M16 45mm
+400234,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4040,Steel,"5/16""",70,Grade 91,"Hex bolt 5/16"" 70mm"
+400235,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.31,Stainless steel,"5/8""",60,Grade 10.25,"Carriage bolt 5/8"" 60mm"
+400236,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 957,Steel,M10,80,Grade A323,Eye bolt M10 80mm
+400237,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4188,Alloy steel,M12,40,Grade 88,Flange bolt M12 40mm
+400238,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.27,Brass,M20,55,Grade 91,U-bolt M20 55mm
+400239,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 958,Steel,M12,90,Grade A324,Eye bolt M12 90mm
+400240,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A352,Alloy steel,"3/4""",35,Grade 8,"Flange bolt 3/4"" 35mm"
+400241,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.28,Brass,M12,60,Grade 5,U-bolt M12 60mm
+400242,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4041,Steel,M10,65,Grade 8,Hex bolt M10 65mm
+400243,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.32,Stainless steel,M16,50,Grade 5,Carriage bolt M16 50mm
+400244,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 958,Steel,"5/16""",70,Grade 10.26,"Eye bolt 5/16"" 70mm"
+400245,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4189,Alloy steel,"5/8""",35,Grade A324,"Flange bolt 5/8"" 35mm"
+400246,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.28,Brass,M10,45,Grade 94,U-bolt M10 45mm
+400247,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 959,Steel,M12,70,Grade 97,Eye bolt M12 70mm
+400248,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A353,Alloy steel,M20,60,Grade 10.26,Flange bolt M20 60mm
+400249,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.29,Brass,M12,80,Grade A324,U-bolt M12 80mm
+400250,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4042,Steel,"3/4""",40,Grade 94,"Hex bolt 3/4"" 40mm"
+400251,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.33,Stainless steel,M12,55,Grade 97,Carriage bolt M12 55mm
+400252,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 959,Steel,M10,90,Grade A325,Eye bolt M10 90mm
+400253,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4190,Alloy steel,M16,35,Grade 8,Flange bolt M16 35mm
+400254,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.29,Brass,"5/16""",60,Grade 5,"U-bolt 5/16"" 60mm"
+400255,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 960,Steel,"5/8""",65,Grade 8,"Eye bolt 5/8"" 65mm"
+400256,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A354,Alloy steel,M10,50,Grade 5,Flange bolt M10 50mm
+400257,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.30,Brass,M12,70,Grade 10.27,U-bolt M12 70mm
+400258,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4043,Steel,M20,35,Grade A325,Hex bolt M20 35mm
+400259,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.34,Stainless steel,M12,45,Grade 100,Carriage bolt M12 45mm
+400260,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 960,Steel,"3/4""",70,Grade 103,"Eye bolt 3/4"" 70mm"
+400261,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4191,Alloy steel,M12,60,Grade 10.27,Flange bolt M12 60mm
+400262,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.30,Brass,M10,80,Grade A325,U-bolt M10 80mm
+400263,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 961,Steel,M16,40,Grade 100,Eye bolt M16 40mm
+400264,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A355,Alloy steel,"5/16""",55,Grade 103,"Flange bolt 5/16"" 55mm"
+400265,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.31,Brass,"5/8""",90,Grade A326,"U-bolt 5/8"" 90mm"
+400266,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4044,Steel,M10,35,Grade 8,Hex bolt M10 35mm
+400267,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.35,Stainless steel,M12,60,Grade 5,Carriage bolt M12 60mm
+400268,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 961,Steel,M20,65,Grade 8,Eye bolt M20 65mm
+400269,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4192,Alloy steel,M12,50,Grade 5,Flange bolt M12 50mm
+400270,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.31,Brass,"3/4""",70,Grade 10.28,"U-bolt 3/4"" 70mm"
+400271,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 962,Steel,M12,35,Grade A326,Eye bolt M12 35mm
+400272,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A356,Alloy steel,M10,45,Grade 106,Flange bolt M10 45mm
+400273,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.32,Brass,M16,70,Grade 109,U-bolt M16 70mm
+400274,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4045,Steel,"5/16""",60,Grade 10.28,"Hex bolt 5/16"" 60mm"
+400275,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.36,Stainless steel,"5/8""",80,Grade A326,"Carriage bolt 5/8"" 80mm"
+400276,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 962,Steel,M10,40,Grade 106,Eye bolt M10 40mm
+400277,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4193,Alloy steel,M12,55,Grade 109,Flange bolt M12 55mm
+400278,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.32,Brass,M20,90,Grade A327,U-bolt M20 90mm
+400279,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 963,Steel,M12,35,Grade 8,Eye bolt M12 35mm
+400280,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A357,Alloy steel,"3/4""",60,Grade 5,"Flange bolt 3/4"" 60mm"
+400281,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.33,Brass,M12,65,Grade 8,U-bolt M12 65mm
+400282,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4046,Steel,M10,50,Grade 5,Hex bolt M10 50mm
+400283,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.37,Stainless steel,M16,70,Grade 10.29,Carriage bolt M16 70mm
+400284,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 963,Steel,"5/16""",35,Grade A327,"Eye bolt 5/16"" 35mm"
+400285,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4194,Alloy steel,"5/8""",45,Grade 112,"Flange bolt 5/8"" 45mm"
+400286,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.33,Brass,M10,70,Grade 115,U-bolt M10 70mm
+400287,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 964,Steel,M12,60,Grade 10.29,Eye bolt M12 60mm
+400288,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A358,Alloy steel,M20,80,Grade A327,Flange bolt M20 80mm
+400289,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.34,Brass,M12,40,Grade 112,U-bolt M12 40mm
+400290,Hex bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4047,Steel,"3/4""",55,Grade 115,"Hex bolt 3/4"" 55mm"
+400291,Carriage bolt,ANSI,CE marked,Galvanized,Titan Bolts,ASME B18.38,Stainless steel,M12,90,Grade A328,Carriage bolt M12 90mm
+400292,Eye bolt,ISO,RoHS compliant,Stainless steel,FastenAll,DIN 964,Steel,M10,35,Grade 8,Eye bolt M10 35mm
+400293,Flange bolt,DIN,RoHS compliant,Black oxide,Nut & Bolt Solutions,ISO 4195,Alloy steel,M16,60,Grade 5,Flange bolt M16 60mm
+400294,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.34,Brass,"5/16""",65,Grade 8,"U-bolt 5/16"" 65mm"
+400295,Eye bolt,ISO,RoHS compliant,Galvanized,Titan Bolts,DIN 965,Steel,"5/8""",50,Grade 5,"Eye bolt 5/8"" 50mm"
+400296,Flange bolt,ASTM,RoHS compliant,Stainless steel,FastenAll,ASTM A359,Alloy steel,M10,70,Grade 10.30,Flange bolt M10 70mm
+400297,U-bolt,ANSI,CE marked,Zinc-plated,BoltWorks Co.,ASME B18.2.35,Brass,M12,35,Grade A328,U-bolt M12 35mm

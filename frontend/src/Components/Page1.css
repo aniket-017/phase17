@@ -1,0 +1,48 @@
+/* Page1.css */
+
+/* Page1 container */
+.pagecss {
+  display: flex;
+  height: 100vh; /* Make Page1 container take up full viewport height */
+}
+
+/* Sidebar (left) */
+.sidebar {
+  flex: 1; /* Sidebar takes up 1/4 of the available space */
+  background-color: #2c3e50; /* Dark blue background color */
+  color: #ffffff; /* Text color */
+  padding: 10px; 
+  height: 200vw;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow for depth */
+}
+
+/* Products (middle) */
+.products {
+  flex: 2; /* Products take up 2/4 of the available space */
+  background-color: #ffffff; /* White background color */
+  padding: 20px; /* Add padding for spacing */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow for depth */
+}
+
+/* Cart (right) */
+.cartmain {
+  width: 300px; /* Set width for the cart section */
+  background-color: #34495e; /* Darker blue background color */
+  color: #ffffff; /* Text color */
+  padding: 20px; /* Add padding for spacing */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow for depth */
+}
+
+/* Media Query for Responsiveness */
+@media (max-width: 768px) {
+  .pagecss {
+    flex-direction: column; /* Stack components vertically on smaller screens */
+  }
+
+  .sidebar,
+  .products,
+  .cartmain {
+    flex: 1; /* Equal width on smaller screens */
+    width: auto; /* Remove fixed width */
+  }
+}

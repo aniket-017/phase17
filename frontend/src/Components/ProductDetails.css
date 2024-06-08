@@ -1,0 +1,108 @@
+/* ProductDetails.css */
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .productimg {
+    width: 600px; /* Make the image responsive */
+    height: auto;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .imgsection{
+    /* padding:100px 5px; */
+  }
+  
+  span {
+    font-weight: bold;
+  }
+  
+  /* Optional: Style the HR elements (horizontal lines) */
+  hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 10px 0;
+  }
+  
+/* ProductDetails.css */
+
+/* ... Your existing styles ... */
+
+.imgsection {
+    text-align: center; /* Center the image within its container */
+  }
+  
+  h3 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="number"] {
+    width: 50px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  p {
+    font-weight: bold;
+    margin: 10px 0;
+  }
+
+  .ordersection{
+    padding-left: 50px;
+  }
+  
+  /* button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0056b3; 
+  } */
+  
+
+  
+  /* Media Query for Smaller Screens */
+  @media (max-width: 768px) {
+    .row {
+      flex-direction: column;
+    }
+  
+    .column {
+      width: 100%;
+    }
+  
+    .productimg {
+      max-width: 100%;
+    }
+  }
+  
