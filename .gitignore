@@ -10,3 +10,4 @@ frontend/node_modules/
 
 # Ignore node_modules in the backend directory (if applicable)
 backend/node_modules/
+backend/config/config.env
